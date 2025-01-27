@@ -7,8 +7,8 @@ from datetime import datetime
 """
 TCP Flood Testing Tool
 Version: 1.0.1
-Author: [Your Name]
-Last Updated: [Date]
+Author: Ahmed Yasser Lotfy
+Last Updated: 28/1/25
 
 For educational purposes only. Use only on systems you own or have permission to test.
 """
@@ -172,8 +172,8 @@ if __name__ == "__main__":
     ║        For Educational Purposes Only          ║
     ║                                              ║
     ║  Version: 1.0.1                              ║
-    ║  Author: [Your Name]                         ║
-    ║  Last Updated: [Date]                        ║
+    ║  Author: Ahmed Yasser Lotfy                  ║
+    ║  Last Updated: 28/11/25                      ║
     ║                                              ║
     ║  Only use on systems you own or have         ║
     ║  explicit permission to test.                ║
